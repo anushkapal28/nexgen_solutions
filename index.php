@@ -17,17 +17,14 @@
 
   <?php include 'navbar.php'; ?>
 
- <!-- <section class="hero">
-  <div class="hero-box">
-     <video autoplay muted loop playsinline class="hero-video">
-      <source src="assets/Landing1.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div class="hero-content">
-      <a href="services.php" class="btn">Our Services</a>
-    </div>
+<div class="info-bar">
+  <div class="info-text">
+    🚨 <strong>Important Notice:</strong> Beware of fraudulent job offers made in the name of 
+    <b>Nexgen Digital Solutions</b>. We never charge any fees during hiring and only use official emails ending with 
+    <b>@nexgendigitalsolution.com</b>. Report suspicious offers to 
+    <a href="mailto:sales@nexgendigitalsolution.com">sales@nexgendigitalsolution.com</a>.
   </div>
-</section>-->
+</div>
 <section class="hero">
   <div class="hero-box">
     <div class="hero-overlay">
@@ -234,3 +231,4 @@ We help shape your brand’s future.</h2>
 
 </body>
 </html>
+
